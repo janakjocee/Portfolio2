@@ -8,6 +8,7 @@ A modern, responsive portfolio website built to showcase projects, skills, and e
 ## Preview
 _Add screenshots or a short GIF here._
 - `./docs/preview.png` (recommended)
+<img width="1151" height="881" alt="Screenshot 2026-02-21 at 21 33 56" src="https://github.com/user-attachments/assets/58fff864-ace5-45b3-8a74-581763ca3940" />
 
 ---
 
