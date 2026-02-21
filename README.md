@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built to showcase projects, skills, and experience. Designed for performance, clean UI, and easy customization.
 
 ## Live Demo
-- **Website:** _(add your deployed URL here — e.g., Vercel/Netlify/GitHub Pages)_
+- **Website:** Janakjocee2.vercel.app
 
 ## Preview
 _Add screenshots or a short GIF here._
